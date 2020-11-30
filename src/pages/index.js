@@ -7,7 +7,7 @@ import SEO from "../components/SEO"
 
 // ...GatsbyImageSharpFluid
 const IndexPage = () => {
-  return <h1>home page</h1>
+  return <Layout></Layout>
 }
 
 export default IndexPage
