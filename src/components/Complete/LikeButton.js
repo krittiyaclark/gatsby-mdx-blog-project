@@ -1,6 +1,7 @@
 import React from "react"
 import styled from "styled-components"
 import { AiOutlineLike } from "react-icons/ai"
+
 const LikeButton = () => {
   const [value, setValue] = React.useState(0)
   return (
